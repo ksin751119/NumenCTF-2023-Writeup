@@ -6,7 +6,7 @@
 - [] GOATFinance
 - [] LenderPool
 - [] HEXP
-- [] Counter
+- [x] Counter
 - [] Wallet
 - [] Exist
 - [] SimpleCall
