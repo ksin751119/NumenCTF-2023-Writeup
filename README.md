@@ -8,7 +8,7 @@
 - [] HEXP
 - [x] Counter
 - [] Wallet
-- [] Exist
+- [x] Exist
 - [] SimpleCall
 
 ## Numen
