@@ -4,7 +4,7 @@
 - [] ASSLOT
 - [x] LittleMoney
 - [x] GOATFinance
-- [] LenderPool
+- [x] LenderPool
 - [] HEXP
 - [x] Counter
 - [] Wallet
