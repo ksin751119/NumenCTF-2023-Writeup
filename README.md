@@ -2,7 +2,7 @@
 
 ## Solidity
 - [] ASSLOT
-- [] LittleMoney
+- [x] LittleMoney
 - [x] GOATFinance
 - [] LenderPool
 - [] HEXP
