@@ -9,7 +9,7 @@
 - [x] Counter
 - [] Wallet
 - [x] Exist
-- [] SimpleCall
+- [x] SimpleCall
 
 ## Numen
 Numen Cyber CTF 2023 is a CTF hosted by [Numen Cyber](https://twitter.com/numencyber) that included challenges on Solidity and Move.
